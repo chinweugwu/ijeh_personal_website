@@ -65,12 +65,12 @@ a {
   transform: tanslateY(20px);
   transition: transform 0.3s ease-out;
   color: rgba(17, 16, 41, 0.658)
-};
+}
 
 .nav-button:active {
   cursor: pointer;
   color: rgba(17, 16, 41, 0.658)
-};
+}
 
 
 .nav-button > h4 {
